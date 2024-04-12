@@ -1,7 +1,5 @@
 package com.automation.capstone.capstoneshopping;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -11,7 +9,6 @@ import org.testng.annotations.Test;
 public class CreateNewUser {
 
 	WebDriver driver;
-	JavascriptExecutor js;
 
 	@FindBy(xpath = "//li/a[text() =  'Create an Account']")
 	WebElement createAccount;
@@ -40,10 +37,9 @@ public class CreateNewUser {
 	@FindBy(xpath = "//div[contains(text(),'There is already an account with this email address.')]")
 	WebElement failure;
 
-	public CreateNewUser(WebDriver driver, JavascriptExecutor js) {
+	public CreateNewUser(WebDriver driver) {
 
 		this.driver = driver;
-		this.js = js;
 		PageFactory.initElements(driver, this);
 	}
 
@@ -51,11 +47,11 @@ public class CreateNewUser {
 	public void newUserCreation() {
 
 		createAccount.click();
-		firstname.sendKeys("testcapstoneFNuser1");
-		lastname.sendKeys("testcapstoneLNuser1");
-		email_address.sendKeys("testcapstone123@gmail.com");
-		pass1.sendKeys("Testcapstoneuser@1");
-		passconfirmation.sendKeys("Testcapstoneuser@1");
+		firstname.sendKeys("testf");
+		lastname.sendKeys("testl");
+		email_address.sendKeys("sridevi.hp@brillio.com");
+		pass1.sendKeys("Test123@123");
+		passconfirmation.sendKeys("Test123@123");
 		submit.click();
 		
 		try {
