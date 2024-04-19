@@ -1,0 +1,91 @@
+DEBUG	2024-04-14 22:45:19,649	0	org.testng.TestNG	[main]	suiteXmlPath: "C:\Users\Sridevi.HP\AppData\Local\Temp\testng-eclipse--1715998124\testng-customsuite.xml"
+INFO	2024-04-14 22:45:20,072	423	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+TRACE	2024-04-14 22:45:20,083	434	org.testng.internal.Graph	[main]	[Graph] ADDING NODE BaseTest.beforeSuite()[pri:0, instance:null] 1104809787
+TRACE	2024-04-14 22:45:20,083	434	org.testng.internal.Graph	[main]	[Graph] ================ SORTING
+TRACE	2024-04-14 22:45:20,090	441	org.testng.internal.Graph	[main]	[Graph] =============== DONE SORTING
+TRACE	2024-04-14 22:45:20,091	442	org.testng.internal.Graph	[main]	[Graph] ====== SORTED NODES
+TRACE	2024-04-14 22:45:20,098	449	org.testng.internal.Graph	[main]	[Graph] ====== END SORTED NODES
+INFO	2024-04-14 22:45:20,098	449	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.sortMethods() took 23 ms.
+INFO	2024-04-14 22:45:20,100	451	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO	2024-04-14 22:45:20,100	451	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO	2024-04-14 22:45:20,100	451	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO	2024-04-14 22:45:20,101	452	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO	2024-04-14 22:45:20,101	452	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO	2024-04-14 22:45:20,101	452	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO	2024-04-14 22:45:20,102	453	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO	2024-04-14 22:45:20,102	453	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO	2024-04-14 22:45:20,102	453	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO	2024-04-14 22:45:20,102	453	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO	2024-04-14 22:45:20,103	454	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO	2024-04-14 22:45:20,103	454	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO	2024-04-14 22:45:20,103	454	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO	2024-04-14 22:45:20,103	454	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO	2024-04-14 22:45:20,108	459	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO	2024-04-14 22:45:20,108	459	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO	2024-04-14 22:45:20,108	459	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO	2024-04-14 22:45:20,108	459	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO	2024-04-14 22:45:20,110	461	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+TRACE	2024-04-14 22:45:20,110	461	org.testng.internal.Graph	[main]	[Graph] ADDING NODE BaseTest.beforeSuite()[pri:0, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] 1595657417
+TRACE	2024-04-14 22:45:20,110	461	org.testng.internal.Graph	[main]	[Graph] ================ SORTING
+TRACE	2024-04-14 22:45:20,111	462	org.testng.internal.Graph	[main]	[Graph] =============== DONE SORTING
+TRACE	2024-04-14 22:45:20,111	462	org.testng.internal.Graph	[main]	[Graph] ====== SORTED NODES
+TRACE	2024-04-14 22:45:20,111	462	org.testng.internal.Graph	[main]	[Graph] ====== END SORTED NODES
+INFO	2024-04-14 22:45:20,111	462	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+INFO	2024-04-14 22:45:20,111	462	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO	2024-04-14 22:45:20,111	462	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO	2024-04-14 22:45:20,112	463	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+TRACE	2024-04-14 22:45:20,113	464	org.testng.internal.Graph	[main]	[Graph] ADDING NODE CreateUser.fieldErrors()[pri:1, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] -1206215207
+TRACE	2024-04-14 22:45:20,114	465	org.testng.internal.Graph	[main]	[Graph] ADDING NODE CreateUser.loginCreatedUser()[pri:3, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] -262276574
+TRACE	2024-04-14 22:45:20,114	465	org.testng.internal.Graph	[main]	[Graph] ADDING NODE CreateUser.viewCart()[pri:0, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] -1527776391
+TRACE	2024-04-14 22:45:20,116	467	org.testng.internal.Graph	[main]	[Graph]   ADDING PREDECESSOR FOR CreateUser.viewCart()[pri:0, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] ==> CreateUser.loginCreatedUser()[pri:3, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4]
+TRACE	2024-04-14 22:45:20,117	468	org.testng.internal.Graph	[main]	[Graph]   REMOVED CreateUser.loginCreatedUser()[pri:3, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] FROM INDEPENDENT OBJECTS
+TRACE	2024-04-14 22:45:20,117	468	org.testng.internal.Graph	[main]	[Graph] ADDING NODE CreateUser.testCreateUserSuccess()[pri:2, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] 522898210
+TRACE	2024-04-14 22:45:20,117	468	org.testng.internal.Graph	[main]	[Graph] ================ SORTING
+TRACE	2024-04-14 22:45:20,117	468	org.testng.internal.Graph	[ForkJoinPool.commonPool-worker-2]	[Graph]   ADDING PREDECESSOR FOR CreateUser.viewCart()[pri:0, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] ==> CreateUser.loginCreatedUser()[pri:3, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4]
+TRACE	2024-04-14 22:45:20,120	471	org.testng.internal.Graph	[main]	[Graph]   REMOVED PRED CreateUser.loginCreatedUser()[pri:3, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] FROM NODE CreateUser.viewCart()[pri:0, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4]
+TRACE	2024-04-14 22:45:20,121	472	org.testng.internal.Graph	[main]	[Graph] =============== DONE SORTING
+TRACE	2024-04-14 22:45:20,121	472	org.testng.internal.Graph	[main]	[Graph] ====== SORTED NODES
+TRACE	2024-04-14 22:45:20,121	472	org.testng.internal.Graph	[main]	[Graph]               CreateUser.testCreateUserSuccess()[pri:2, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4]
+TRACE	2024-04-14 22:45:20,121	472	org.testng.internal.Graph	[main]	[Graph]               CreateUser.loginCreatedUser()[pri:3, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4]
+TRACE	2024-04-14 22:45:20,121	472	org.testng.internal.Graph	[main]	[Graph]               CreateUser.viewCart()[pri:0, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4]
+TRACE	2024-04-14 22:45:20,121	472	org.testng.internal.Graph	[main]	[Graph] ====== END SORTED NODES
+INFO	2024-04-14 22:45:20,121	472	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+INFO	2024-04-14 22:45:20,123	474	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO	2024-04-14 22:45:20,123	474	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO	2024-04-14 22:45:20,123	474	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO	2024-04-14 22:45:20,123	474	org.testng.internal.Utils	[main]	[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO	2024-04-14 22:45:20,133	484	org.testng.internal.Utils	[main]	[TestNG] Running:
+  C:\Users\Sridevi.HP\AppData\Local\Temp\testng-eclipse--1715998124\testng-customsuite.xml
+
+DEBUG	2024-04-14 22:45:20,195	546	io.github.bonigarcia.wdm.WebDriverManager	[main]	Using WebDriverManager 5.7.0
+DEBUG	2024-04-14 22:45:20,680	1031	io.github.bonigarcia.wdm.cache.ResolutionCache	[main]	Resolution chrome=123 in cache (valid until 23:07:34 14/04/2024 IST)
+DEBUG	2024-04-14 22:45:20,682	1033	io.github.bonigarcia.wdm.cache.ResolutionCache	[main]	Resolution chrome123=123.0.6312.122 in cache (valid until 11:39:56 15/04/2024 IST)
+INFO	2024-04-14 22:45:20,684	1035	io.github.bonigarcia.wdm.WebDriverManager	[main]	Using chromedriver 123.0.6312.122 (resolved driver for Chrome 123)
+TRACE	2024-04-14 22:45:20,698	1049	io.github.bonigarcia.wdm.cache.CacheHandler	[main]	Checking if chromedriver exists in cache
+TRACE	2024-04-14 22:45:20,722	1073	io.github.bonigarcia.wdm.cache.CacheHandler	[main]	Filter cache by chromedriver -- input list [C:\Users\Sridevi.HP\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe, C:\Users\Sridevi.HP\.cache\selenium\chromedriver\win64\123.0.6312.122\chromedriver.exe, C:\Users\Sridevi.HP\.cache\selenium\resolution.properties] -- output list [C:\Users\Sridevi.HP\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe, C:\Users\Sridevi.HP\.cache\selenium\chromedriver\win64\123.0.6312.122\chromedriver.exe] 
+TRACE	2024-04-14 22:45:20,722	1073	io.github.bonigarcia.wdm.cache.CacheHandler	[main]	Filter cache by 123.0.6312.122 -- input list [C:\Users\Sridevi.HP\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe, C:\Users\Sridevi.HP\.cache\selenium\chromedriver\win64\123.0.6312.122\chromedriver.exe] -- output list [C:\Users\Sridevi.HP\.cache\selenium\chromedriver\win64\123.0.6312.122\chromedriver.exe] 
+TRACE	2024-04-14 22:45:20,722	1073	io.github.bonigarcia.wdm.cache.CacheHandler	[main]	Filter cache by WIN -- input list [C:\Users\Sridevi.HP\.cache\selenium\chromedriver\win64\123.0.6312.122\chromedriver.exe] -- output list [C:\Users\Sridevi.HP\.cache\selenium\chromedriver\win64\123.0.6312.122\chromedriver.exe] 
+DEBUG	2024-04-14 22:45:20,724	1075	io.github.bonigarcia.wdm.WebDriverManager	[main]	Driver chromedriver 123.0.6312.122 found in cache
+INFO	2024-04-14 22:45:20,725	1076	io.github.bonigarcia.wdm.WebDriverManager	[main]	Exporting webdriver.chrome.driver as C:\Users\Sridevi.HP\.cache\selenium\chromedriver\win64\123.0.6312.122\chromedriver.exe
+INFO	2024-04-14 22:45:30,513	10864	org.testng.internal.Utils	[main]	[Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+INFO	2024-04-14 22:46:02,262	42613	org.testng.internal.Utils	[main]	[TestNG] Time taken by org.testng.reporters.jq.Main@6240651f: 110 ms
+TRACE	2024-04-14 22:46:02,262	42613	org.testng.internal.Graph	[main]	[Graph] ADDING NODE CreateUser.testCreateUserSuccess()[pri:2, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] 522898210
+TRACE	2024-04-14 22:46:02,262	42613	org.testng.internal.Graph	[main]	[Graph] ADDING NODE CreateUser.loginCreatedUser()[pri:3, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] -262276574
+TRACE	2024-04-14 22:46:02,262	42613	org.testng.internal.Graph	[main]	[Graph] ADDING NODE CreateUser.viewCart()[pri:0, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] -1527776391
+TRACE	2024-04-14 22:46:02,262	42613	org.testng.internal.Graph	[main]	[Graph]   ADDING PREDECESSOR FOR CreateUser.viewCart()[pri:0, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] ==> CreateUser.loginCreatedUser()[pri:3, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4]
+TRACE	2024-04-14 22:46:02,262	42613	org.testng.internal.Graph	[main]	[Graph]   REMOVED CreateUser.loginCreatedUser()[pri:3, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] FROM INDEPENDENT OBJECTS
+TRACE	2024-04-14 22:46:02,262	42613	org.testng.internal.Graph	[main]	[Graph] ADDING NODE CreateUser.fieldErrors()[pri:1, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] -1206215207
+TRACE	2024-04-14 22:46:02,262	42613	org.testng.internal.Graph	[main]	[Graph] ================ SORTING
+TRACE	2024-04-14 22:46:02,262	42613	org.testng.internal.Graph	[ForkJoinPool.commonPool-worker-2]	[Graph]   ADDING PREDECESSOR FOR CreateUser.viewCart()[pri:0, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] ==> CreateUser.loginCreatedUser()[pri:3, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4]
+TRACE	2024-04-14 22:46:02,262	42613	org.testng.internal.Graph	[main]	[Graph]   REMOVED PRED CreateUser.loginCreatedUser()[pri:3, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4] FROM NODE CreateUser.viewCart()[pri:0, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4]
+TRACE	2024-04-14 22:46:02,262	42613	org.testng.internal.Graph	[main]	[Graph] =============== DONE SORTING
+TRACE	2024-04-14 22:46:02,262	42613	org.testng.internal.Graph	[main]	[Graph] ====== SORTED NODES
+TRACE	2024-04-14 22:46:02,262	42613	org.testng.internal.Graph	[main]	[Graph]               CreateUser.fieldErrors()[pri:1, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4]
+TRACE	2024-04-14 22:46:02,262	42613	org.testng.internal.Graph	[main]	[Graph]               CreateUser.loginCreatedUser()[pri:3, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4]
+TRACE	2024-04-14 22:46:02,262	42613	org.testng.internal.Graph	[main]	[Graph]               CreateUser.viewCart()[pri:0, instance:com.automation.capstone.capstoneshopping.CreateUser@65b3f4a4]
+TRACE	2024-04-14 22:46:02,262	42613	org.testng.internal.Graph	[main]	[Graph] ====== END SORTED NODES
+INFO	2024-04-14 22:46:02,314	42665	org.testng.internal.Utils	[main]	[TestNG] Time taken by org.testng.reporters.FailedReporter@1416a80a: 52 ms
+INFO	2024-04-14 22:46:02,327	42678	org.testng.internal.Utils	[main]	[TestNG] Time taken by org.testng.reporters.XMLReporter@51d9b06c: 13 ms
+INFO	2024-04-14 22:46:02,343	42694	org.testng.internal.Utils	[main]	[TestNG] Time taken by org.testng.reporters.EmailableReporter2@3f985a86: 16 ms
+INFO	2024-04-14 22:46:02,357	42708	org.testng.internal.Utils	[main]	[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@184fb68d: 14 ms
+INFO	2024-04-14 22:46:02,357	42708	org.testng.internal.Utils	[main]	[TestNG] Time taken by org.testng.internal.ExitCodeListener@71d8cfe7: 0 ms
